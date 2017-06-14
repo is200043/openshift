@@ -5,6 +5,7 @@
         <artifactId>openshift</artifactId>
         <groupId>com.maven</groupId>
         <version>1.0</version>
+        <relativePath>../openshift/pom.xml</relativePath>
     </parent>
 
     <groupId>com.maven</groupId>
